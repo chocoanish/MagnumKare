@@ -170,7 +170,7 @@ const HomePage = () => {
           <div className={styles.card}>
             <div className={styles.imageContainer}>
               <img
-                src="/api/placeholder/400/320"
+                src="./Chat_1.svg"
                 alt="First card"
                 className={styles.image}
               />
@@ -188,7 +188,7 @@ const HomePage = () => {
           <div className={styles.card}>
             <div className={styles.imageContainer}>
               <img
-                src="/api/placeholder/400/320"
+                src="./Chat_2.svg"
                 alt="Second card"
                 className={styles.image}
               />
@@ -206,7 +206,7 @@ const HomePage = () => {
           <div className={styles.card}>
             <div className={styles.imageContainer}>
               <img
-                src="/api/placeholder/400/320"
+                src="./Chat_3.svg"
                 alt="Third card"
                 className={styles.image}
               />
